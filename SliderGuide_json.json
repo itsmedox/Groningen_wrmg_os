@@ -9,7 +9,7 @@
   "applovin_interstitial_id": "xxxxxx",
   "applovin_native_id": "xxxxxx",
   "applovin_rewarded_id": "xxxxxx",
-  "is_max": false,
+  "is_max": true,
   
   "unity_banner_id": "xxxx",
   "unity_interstitial_id": "xxxx",
@@ -133,7 +133,7 @@
 	 "image": "https://iili.io/HttfMdX.png",
 	 "title": "groningen",
 	 "text": "roningen was established more than 950 years ago and gained city rights in 1245.[7] Due to its relatively isolated location from the then successive Dutch centres of power (Utrecht, The Hague, Brussels), Groningen was historically reliant on itself and nearby regions. As a Hanseatic city, it was part of the North German trade network, but later it mainly became a regional market centre. At the height of its power in the 15th century, Groningen could be considered an independent city-state and it remained autonomous until the French era.",
-	 "text_two": "Today Groningen is a university city, home to some of the country's leading higher education institutes; University of Groningen (Rijksuniversiteit Groningen), which is the Netherlands's second oldest university, and Hanze University of Applied Sciences (Hanzehogeschool Groningen).[",
+	 "text_two": "Today Groningen is a university city, home to some of the country's leading higher education institutes; University of Groningen (Rijksuniversiteit Groningen), which is the Netherlands's second oldest university, and Hanze University of Applied Sciences (Hanzehogeschool Groningen)",
 
 	 "showInSlider": false,
 	 
