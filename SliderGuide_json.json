@@ -44,11 +44,11 @@
 
   "show_activities": true,
   
-  "slider_in_details": false,
+  "slider_in_details": true,
   
   
-  "clicks_to_show_inter": 1,
-  "native_rate": 1,
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
   
   
   "show_rate_us_in_list": true,
@@ -69,10 +69,10 @@
   "suspended_URL": "xxxx",
   
   "show_app_1": false,
-  "app_icon_1": "https://play-lh.googleusercontent.com/NdUWMwj7j8PED3UVxRX_2Qo9qeDD6SNooMFTLJCCHAO0YnsyKWkgAzfHN1VZARaEBdMO=s512-rw",
-  "app_title_1": "Parchisi STAR Online",
-  "app_desc_1": "Parchisi STAR is an online multiplayer game.",
-  "app_url_1": "com.superking.parchisi.star",
+  "app_icon_1": "https://play-lh.googleusercontent.com/OZoa06sJ3HvVpE8V8g9ax6uXFuu6NTgH63NTXcLEYSdp3WBDIaVdKXXgWjGyZwO9Vir5=w240-h480-rw",
+  "app_title_1": "Otaku Wallpapers 4K",
+  "app_desc_1": "Otaku Wallpapers 4K is the ultimate destination for anime enthusiasts",
+  "app_url_1": "com.otaku.wallpapers4k",
   
   "show_app_2": false,
   "app_icon_2": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag=s512-rw",
@@ -91,7 +91,6 @@
   "app_title_4": "App Name",
   "app_desc_4": "The standard chunk of Lorem Ipsum used since the 1500s",
   "app_url_4": "com.ea.game.pvzfree_row",
-
 
   "guides": [
 	{
